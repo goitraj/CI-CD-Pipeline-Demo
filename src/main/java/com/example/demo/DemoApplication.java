@@ -17,6 +17,7 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 		System.out.println("Hello from Java inside Git repo!");
 		System.out.println("this is develop");
+		System.out.println(" ci cd deploy this is develop");
 	}
 
 }
